@@ -674,6 +674,16 @@ for each point p in D do
 
 ![w:1100px](fig/diagrams/04_DBscanFlaw.png)
 
+
+---
+
+## Lab: DBSCAN Clustering
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/toche7/SlideDataSci/blob/main/DBSCAN_colab.ipynb)
+
+
+
+
 ---
 
 <!-- _class: divider -->
@@ -900,6 +910,11 @@ Building tree-based cluster hierarchies
 - **Deterministic** — Same result every run
 - **Flexible** — Different linkage criteria available
 - **Interpretability** — Clear hierarchical structure
+
+---
+## Lab : Hierarchical Clustering
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/toche7/SlideDataSci/blob/main/Hierarchical_Clustering_colab.ipynb)
 
 ---
 
