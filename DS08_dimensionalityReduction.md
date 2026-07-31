@@ -816,7 +816,7 @@ Do not judge a method only by an attractive scatter plot.
 
 ---
 
-## Final hands-on challenge
+## Final hands-on challenge (Assignment)
 
 Choose a real-world dataset and present your findings.
 
@@ -825,6 +825,10 @@ Choose a real-world dataset and present your findings.
 3. Compare metrics, runtime, and visual patterns
 4. Interpret the representations and limitations
 5. Recommend one method for the stated objective
+
+**Examples**: MNIST, Fashion-MNIST, CIFAR-10, 20 Newsgroups, or your own dataset
+
+Where to get datasets:  [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets), or [https://archive.ics.uci.edu/ml/index.php](https://archive.ics.uci.edu/ml/index.php)
 
 ---
 
